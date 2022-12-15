@@ -28,7 +28,7 @@ SKILLS
 C++, Python, HTML, CSS, JavaScript
 
 ### Tools
-Bloomberg Terminal, Microsoft Office, React
+Bloomberg Terminal, Microsoft Office, React, MongoDB
 
 ### Lanaguages
 Cantonese (native), Mandarin (fluent), English (fluent)
